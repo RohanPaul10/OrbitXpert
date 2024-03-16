@@ -24,7 +24,7 @@ Installation:
    ```
 2. Navigate to the project directory:
    ```
-   cd OrbitXpert
+   cd OrbitXpert-main
    ```
 3. Install React Router DOM:
    ```
