@@ -25,7 +25,7 @@ const Navbar = () => {
           </div>
           <div className="item">
             <Switch
-              style={{ color: "#210876" }}
+              style={{ color: "#FF5733" }}
               className="icon"
               onClick={() => dispatch({ type: "TOGGLE" })}
             />
@@ -45,7 +45,7 @@ const Navbar = () => {
             <ListOutlinedIcon className="icon" />
           </div>
           <div className="item">
-            <img src="/assets/person.jpg" alt="" className="profileImg" />
+            <img src="/assets/Elon_Musk.jpg" alt="" className="profileImg" />
           </div>
         </div>
       </div>
