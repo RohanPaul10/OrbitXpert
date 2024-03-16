@@ -24,9 +24,9 @@ const Featured = () => {
                 text={`${percentage}%`}
                 styles={buildStyles({
                   pathTransitionDuration: 0.95,
-                  trailColor: "#82ca9d",
-                  pathColor: "#210876",
-                  textColor: "#210876",
+                  trailColor: "#E9E319",
+                  pathColor: "#131212",
+                  textColor: "#131212",
                 })}
               />
             )}
